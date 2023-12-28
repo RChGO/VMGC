@@ -6,7 +6,7 @@
 ##################################################
 
 if [ "$#" -ne "5" ]; then
-  echo -e "\nusage: sh $0 <genome fasta> <output file> <CRASS db> <Genome db> <Taxlist>\n" 
+  echo -e "\nusage: sh $0 <genome fasta> <output file> <CRISPRs db> <Genome db> <Taxlist>\n" 
     exit 2
 fi
 
