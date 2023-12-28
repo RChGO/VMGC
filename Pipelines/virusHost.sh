@@ -5,20 +5,23 @@
 # Date: Apr, 2022 (v1.0)
 ##################################################
 
-if [ "$#" -ne "2" ]; then
-  echo -e "\nusage: sh $0 <genome fasta> <output file>\n" 
+if [ "$#" -ne "5" ]; then
+  echo -e "\nusage: sh $0 <genome fasta> <output file> <CRASS db> <Genome db> <Taxlist>\n" 
     exit 2
 fi
 
 
 fa=$1
 outf=$2
+db_crass=$3
+db_genome=$4
+db_tax=$5
 
 #db_crass='/share/data1/Database/uhgg/csp.tot.fa'
 #db_genome='/share/data1/Database/uhgg/genomes_rep.fasta'
-db_crass='/share/data1/Database/uhgg_20220401/csp.tot.fa'
-db_genome='/share/data1/Database/uhgg_20220401/genomes_rep.fasta'
-db_tax='/share/data1/Database/uhgg_20220401/uhgg.taxo.group'
+#db_crass='/share/data1/Database/uhgg_20220401/csp.tot.fa'
+#db_genome='/share/data1/Database/uhgg_20220401/genomes_rep.fasta'
+#db_tax='/share/data1/Database/uhgg_20220401/uhgg.taxo.group'
 
 blastn -query $fa -db $db_crass -evalue 1e-2 -out $outf.csp.bt -outfmt 6 -num_alignments 999999 -num_threads 50 -word_size 8
 filter_blast -i $outf.csp.bt -o $outf.csp.bt.f --evalue 1e-5 --score 45 --tops 20
