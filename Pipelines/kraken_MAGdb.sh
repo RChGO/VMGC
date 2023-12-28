@@ -33,7 +33,7 @@ brackendb_readlen=${5:-150}
 
 mkdir -p $outdir/taxonomy
 
-/share/data2/guorc/script/TableTreat.v4.py -a $intax -b $inseqlist -x 0 -m table_merge -o $outdir/Temp.list
+/share/data2/guorc/script/TableTreat.py -a $intax -b $inseqlist -x 0 -m table_merge -o $outdir/Temp.list
 perl -i -ne 'if($. ne 1){$a=$.-1; s/(.*?)\t/KRA_$a\t/};print $_' $outdir/Temp.list 
 awk '{if($NF!="NA"){print $1"\t"$NF}}'  $outdir/Temp.list | awk '{print "seqkit replace -p \"(.*)\" -r \""$1"CTG{nr}\" "$2}' | sh >  $outdir/db.fna
 seqkit seq -n $outdir/db.fna | perl -ne '/(KRA_\d+)/;print "$1\t$_"' > $outdir/db.seqid
