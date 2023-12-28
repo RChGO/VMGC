@@ -3,7 +3,6 @@
 #病毒物种==================================================================================================================
 
 ckv = read.csv('00.data/votu.ckv',sep='\t',header = F)
-ckv = ckv[ckv$V1!='MG1145.k121_3894',] #illu测序常用阳性对照，怀疑样品测序污染引入
 ckv$id = paste('v',as.hexmode(1:nrow(ckv)),sep='')
 #write.table(ckv,'aa',row.names = F,sep='\t',quote = F)
 summary(ckv$V2)
