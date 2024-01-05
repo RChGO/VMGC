@@ -19,8 +19,8 @@ The microbial sequence data for VMGC is stored at https://zenodo.org/records/104
 <br>
 
 ---
-### Single-sample and Mash-based multiple-sample binning
-Metagenome-assembled genomes in the VMGC were obtained through a process that integrated both single-sample binning and Mash-based multiple-sample binning methods. The specific operational steps are outlined below.
+### Single-coverage and Mash-based multiple-coverage binning
+Metagenome-assembled genomes in the VMGC were obtained through a process that integrated both single-coverage binning and Mash-based multiple-coverage binning methods. The specific operational steps are outlined below.
 
 * Required dependencies
     > Mash 2.3<br>
@@ -40,12 +40,12 @@ Metagenome-assembled genomes in the VMGC were obtained through a process that in
 
     >cat mash.sketch.msh.top20 | parallel --colsep '\t' -j 10 mkdir -p depth/{2} \\; bwa-mem2 mem -t 10 contigs/{2} clean_reads/{1}.1.fq.gz clean_reads/{1}.2.fq.gz \\| samtools view -bS - -@ 10 \\| samtools sort -@ 10 -o depth/{2}/{1}.sort.bam \\&\\& jgi_summarize_bam_contig_depths --outputDepth depth/{2}/{1}.sort.bam.depth depth/{2}/{1}.sort.bam
 
-* Step 3: Integrate depth calculation files using the public script combine.pl, and perform  multiple-sample binning.
+* Step 3: Integrate depth calculation files using the public script combine.pl, and perform  multiple-coverage binning.
     >find depth/* -type d | parallel -j 10 combine.pl {}/*.sort.bam.depth \\> {}.depth
 
     >find depth/*.depth | parallel -j 10 mkdir -p bins/{/.}/ \\; metabat2 -i contigs/{/.}.fasta -a {} -o bins/{/.}/{/.}.mbin -m 2000 -s 200000 --saveCls --unbinned --seed 2020 
 
-* Step 4: Perform single-sample binning.
+* Step 4: Perform single-coverage binning.
     >find depth/* -type d | parallel -j 10 metabat2 -i contigs/{/.}.fasta -a depth/{/.}/{/.}.depth -o bins/{/.}/{/.}.sbin -m 2000 -s 200000 --saveCls --unbinned --seed 2020
 <br>
 
