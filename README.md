@@ -2,7 +2,7 @@
  The VMGC is a large-scale reference genome resource of the human vaginal microbiome, including over 33,000 genomes derived from 786 prokaryotes, 38 fungi, and 4,263 viruses associated with the human vagina. In terms of representation, the VMGC demonstrates high efficiency in capturing microbial sequences, with a median mapping rate of 91.7% across 4,472 vaginal metagenomic samples obtained from 14 countries.</font>
 <br>
 <br>
-The microbial sequence data for VMGC is stored at http://puensum.tpddns.cn:8000/pub/VMGC/, including the data presented in the table below.
+The microbial sequence data for VMGC is stored at https://zenodo.org/records/10457006, including the data presented in the table below.
 <br>
 |Description|Size|Filename|
 |  ----  | ---- | ---- |
