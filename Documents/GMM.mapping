@@ -1,0 +1,558 @@
+GMMs	Name	KO	HL1	HL2	Position
+MF001	ethanol production I	K00656	alcohol metabolism	ethanol metabolism	output
+MF001	ethanol production I	K00132	alcohol metabolism	ethanol metabolism	output
+MF001	ethanol production I	K04072	alcohol metabolism	ethanol metabolism	output
+MF001	ethanol production I	K04073	alcohol metabolism	ethanol metabolism	output
+MF001	ethanol production I	K18366	alcohol metabolism	ethanol metabolism	output
+MF001	ethanol production I	K00001	alcohol metabolism	ethanol metabolism	output
+MF001	ethanol production I	K00121	alcohol metabolism	ethanol metabolism	output
+MF001	ethanol production I	K11440	alcohol metabolism	ethanol metabolism	output
+MF001	ethanol production I	K13953	alcohol metabolism	ethanol metabolism	output
+MF001	ethanol production I	K13954	alcohol metabolism	ethanol metabolism	output
+MF002	ethanol production II	K01568	alcohol metabolism	ethanol metabolism	output
+MF002	ethanol production II	K00001	alcohol metabolism	ethanol metabolism	output
+MF002	ethanol production II	K00121	alcohol metabolism	ethanol metabolism	output
+MF002	ethanol production II	K04072	alcohol metabolism	ethanol metabolism	output
+MF002	ethanol production II	K11440	alcohol metabolism	ethanol metabolism	output
+MF002	ethanol production II	K13953	alcohol metabolism	ethanol metabolism	output
+MF002	ethanol production II	K13954	alcohol metabolism	ethanol metabolism	output
+MF003	putrescine degradation	K09251	amines and polyamines degradation	biogenic amine degradation	input
+MF003	putrescine degradation	K12256	amines and polyamines degradation	biogenic amine degradation	input
+MF003	putrescine degradation	K03343	amines and polyamines degradation	biogenic amine degradation	input
+MF003	putrescine degradation	K00137	amines and polyamines degradation	biogenic amine degradation	input
+MF004	urea degradation	K01941	amines and polyamines degradation	urea degradation	input
+MF004	urea degradation	K01457	amines and polyamines degradation	urea degradation	input
+MF004	urea degradation	K01428	amines and polyamines degradation	urea degradation	input
+MF004	urea degradation	K01429	amines and polyamines degradation	urea degradation	input
+MF004	urea degradation	K01430	amines and polyamines degradation	urea degradation	input
+MF004	urea degradation	K14048	amines and polyamines degradation	urea degradation	input
+MF004	urea degradation	K01427	amines and polyamines degradation	urea degradation	input
+MF005	4-aminobutyrate degradation	K00823	amino acid degradation	positively charged amino acid degradation	input
+MF005	4-aminobutyrate degradation	K07250	amino acid degradation	positively charged amino acid degradation	input
+MF005	4-aminobutyrate degradation	K13524	amino acid degradation	positively charged amino acid degradation	input
+MF005	4-aminobutyrate degradation	K14268	amino acid degradation	positively charged amino acid degradation	input
+MF005	4-aminobutyrate degradation	K00043	amino acid degradation	positively charged amino acid degradation	input
+MF005	4-aminobutyrate degradation	K14534	amino acid degradation	positively charged amino acid degradation	input
+MF005	4-aminobutyrate degradation	K08318	amino acid degradation	positively charged amino acid degradation	input
+MF005	4-aminobutyrate degradation	K18120	amino acid degradation	positively charged amino acid degradation	input
+MF005	4-aminobutyrate degradation	K00135	amino acid degradation	positively charged amino acid degradation	input
+MF005	4-aminobutyrate degradation	K08324	amino acid degradation	positively charged amino acid degradation	input
+MF006	alanine degradation I	K01775	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF006	alanine degradation I	K00285	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF007	alanine degradation II	K00814	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF007	alanine degradation II	K00259	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF007	alanine degradation II	K19244	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF008	arginine degradation I	K01583	amino acid degradation	positively charged amino acid degradation	input
+MF008	arginine degradation I	K01584	amino acid degradation	positively charged amino acid degradation	input
+MF008	arginine degradation I	K01585	amino acid degradation	positively charged amino acid degradation	input
+MF008	arginine degradation I	K02626	amino acid degradation	positively charged amino acid degradation	input
+MF008	arginine degradation I	K01476	amino acid degradation	positively charged amino acid degradation	input
+MF008	arginine degradation I	K01581	amino acid degradation	positively charged amino acid degradation	input
+MF008	arginine degradation I	K10536	amino acid degradation	positively charged amino acid degradation	input
+MF008	arginine degradation I	K12251	amino acid degradation	positively charged amino acid degradation	input
+MF008	arginine degradation I	K01480	amino acid degradation	positively charged amino acid degradation	input
+MF009	arginine degradation II	K00673	amino acid degradation	positively charged amino acid degradation	input
+MF009	arginine degradation II	K01484	amino acid degradation	positively charged amino acid degradation	input
+MF009	arginine degradation II	K00840	amino acid degradation	positively charged amino acid degradation	input
+MF009	arginine degradation II	K06447	amino acid degradation	positively charged amino acid degradation	input
+MF009	arginine degradation II	K05526	amino acid degradation	positively charged amino acid degradation	input
+MF010	arginine degradation III	K12252	amino acid degradation	positively charged amino acid degradation	input
+MF010	arginine degradation III	K12253	amino acid degradation	positively charged amino acid degradation	input
+MF010	arginine degradation III	K12254	amino acid degradation	positively charged amino acid degradation	input
+MF010	arginine degradation III	K12255	amino acid degradation	positively charged amino acid degradation	input
+MF011	arginine degradation IV	K01476	amino acid degradation	positively charged amino acid degradation	input
+MF011	arginine degradation IV	K00819	amino acid degradation	positively charged amino acid degradation	input
+MF011	arginine degradation IV	K00294	amino acid degradation	positively charged amino acid degradation	input
+MF011	arginine degradation IV	K13821	amino acid degradation	positively charged amino acid degradation	input
+MF011	arginine degradation IV	K00286	amino acid degradation	positively charged amino acid degradation	input
+MF011	arginine degradation IV	K01750	amino acid degradation	positively charged amino acid degradation	input
+MF012	arginine degradation V	K01478	amino acid degradation	positively charged amino acid degradation	input
+MF012	arginine degradation V	K00611	amino acid degradation	positively charged amino acid degradation	input
+MF012	arginine degradation V	K00926	amino acid degradation	positively charged amino acid degradation	input
+MF013	asparagine degradation	K05597	amino acid degradation	polar, uncharged amino acid degradation	input
+MF014	aspartate degradation I	K00812	amino acid degradation	negatively charged amino acid degradation	input
+MF014	aspartate degradation I	K00813	amino acid degradation	negatively charged amino acid degradation	input
+MF014	aspartate degradation I	K11358	amino acid degradation	negatively charged amino acid degradation	input
+MF015	aspartate degradation II	K01744	amino acid degradation	negatively charged amino acid degradation	input
+MF016	cysteine biosynthesis/homocysteine degradation	K01697	amino acid degradation	 polar, uncharged amino acid degradation	input
+MF016	cysteine biosynthesis/homocysteine degradation	K10150	amino acid degradation	 polar, uncharged amino acid degradation	input
+MF016	cysteine biosynthesis/homocysteine degradation	K01758	amino acid degradation	 polar, uncharged amino acid degradation	input
+MF017	cysteine degradation I	K01758	amino acid degradation	polar, uncharged amino acid degradation	input
+MF017	cysteine degradation I	K01760	amino acid degradation	polar, uncharged amino acid degradation	input
+MF017	cysteine degradation I	K14155	amino acid degradation	polar, uncharged amino acid degradation	input
+MF018	cysteine degradation II	K00812	amino acid degradation	polar, uncharged amino acid degradation	input
+MF018	cysteine degradation II	K00813	amino acid degradation	polar, uncharged amino acid degradation	input
+MF018	cysteine degradation II	K11358	amino acid degradation	polar, uncharged amino acid degradation	input
+MF018	cysteine degradation II	K01011	amino acid degradation	polar, uncharged amino acid degradation	input
+MF019	glutamate degradation I	K00260	amino acid degradation	negatively charged amino acid degradation	input
+MF019	glutamate degradation I	K15371	amino acid degradation	negatively charged amino acid degradation	input
+MF019	glutamate degradation I	K00261	amino acid degradation	negatively charged amino acid degradation	input
+MF019	glutamate degradation I	K00109	amino acid degradation	negatively charged amino acid degradation	input
+MF019	glutamate degradation I	K01039	amino acid degradation	negatively charged amino acid degradation	input
+MF019	glutamate degradation I	K01040	amino acid degradation	negatively charged amino acid degradation	input
+MF019	glutamate degradation I	K01615	amino acid degradation	negatively charged amino acid degradation	input
+MF020	glutamate degradation II	K01580	amino acid degradation	negatively charged amino acid degradation	input
+MF021	glutamate degradation III	K01846	amino acid degradation	negatively charged amino acid degradation	input
+MF021	glutamate degradation III	K19268	amino acid degradation	negatively charged amino acid degradation	input
+MF021	glutamate degradation III	K04835	amino acid degradation	negatively charged amino acid degradation	input
+MF022	glutamine degradation I	K01425	amino acid degradation	polar, uncharged amino acid degradation	input
+MF023	glutamine degradation II	K00265	amino acid degradation	polar, uncharged amino acid degradation	input
+MF023	glutamine degradation II	K00266	amino acid degradation	polar, uncharged amino acid degradation	input
+MF024	glycine degradation	K00281	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF024	glycine degradation	K00282	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF024	glycine degradation	K00283	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF024	glycine degradation	K00605	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF024	glycine degradation	K00382	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF025	histidine degradation	K01745	amino acid degradation	positively charged amino acid degradation	input
+MF025	histidine degradation	K01712	amino acid degradation	positively charged amino acid degradation	input
+MF025	histidine degradation	K01468	amino acid degradation	positively charged amino acid degradation	input
+MF025	histidine degradation	K01479	amino acid degradation	positively charged amino acid degradation	input
+MF025	histidine degradation	K05603	amino acid degradation	positively charged amino acid degradation	input
+MF025	histidine degradation	K01458	amino acid degradation	positively charged amino acid degradation	input
+MF026	isoleucine degradation	K00826	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF026	isoleucine degradation	K00166	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF026	isoleucine degradation	K00167	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF026	isoleucine degradation	K09699	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF026	isoleucine degradation	K00382	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF026	isoleucine degradation	K11381	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF026	isoleucine degradation	K00248	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF026	isoleucine degradation	K00249	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF026	isoleucine degradation	K09478	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF026	isoleucine degradation	K11410	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF026	isoleucine degradation	K01692	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF026	isoleucine degradation	K01782	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF026	isoleucine degradation	K01825	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF026	isoleucine degradation	K07547	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF026	isoleucine degradation	K07548	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF026	isoleucine degradation	K12405	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF026	isoleucine degradation	K15016	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF026	isoleucine degradation	K00626	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF026	isoleucine degradation	K00632	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF026	isoleucine degradation	K07508	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF027	leucine degradation	K00826	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF027	leucine degradation	K00166	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF027	leucine degradation	K00167	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF027	leucine degradation	K09699	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF027	leucine degradation	K00382	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF027	leucine degradation	K11381	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF027	leucine degradation	K00249	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF027	leucine degradation	K00253	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF027	leucine degradation	K01968	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF027	leucine degradation	K01969	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF027	leucine degradation	K13766	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF027	leucine degradation	K01640	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF028	lysine degradation I	K01843	amino acid degradation	positively charged amino acid degradation	input
+MF028	lysine degradation I	K01844	amino acid degradation	positively charged amino acid degradation	input
+MF028	lysine degradation I	K18011	amino acid degradation	positively charged amino acid degradation	input
+MF028	lysine degradation I	K18012	amino acid degradation	positively charged amino acid degradation	input
+MF028	lysine degradation I	K00248	amino acid degradation	positively charged amino acid degradation	input
+MF028	lysine degradation I	K18014	amino acid degradation	positively charged amino acid degradation	input
+MF028	lysine degradation I	K01036	amino acid degradation	positively charged amino acid degradation	input
+MF028	lysine degradation I	K01034	amino acid degradation	positively charged amino acid degradation	input
+MF028	lysine degradation I	K01035	amino acid degradation	positively charged amino acid degradation	input
+MF029	lysine degradation II	K01582	amino acid degradation	positively charged amino acid degradation	input
+MF030	methionine degradation I	K00789	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF030	methionine degradation I	K00558	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF030	methionine degradation I	K19398	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF030	methionine degradation I	K17399	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF030	methionine degradation I	K01251	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF031	methionine degradation II	K01761	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF032	phenylalanine degradation	K00832	amino acid degradation	aromatic amino acid degradation	input
+MF032	phenylalanine degradation	K00812	amino acid degradation	aromatic amino acid degradation	input
+MF032	phenylalanine degradation	K00813	amino acid degradation	aromatic amino acid degradation	input
+MF032	phenylalanine degradation	K11358	amino acid degradation	aromatic amino acid degradation	input
+MF032	phenylalanine degradation	K00817	amino acid degradation	aromatic amino acid degradation	input
+MF032	phenylalanine degradation	K04103	amino acid degradation	aromatic amino acid degradation	input
+MF032	phenylalanine degradation	K00146	amino acid degradation	aromatic amino acid degradation	input
+MF032	phenylalanine degradation	K00129	amino acid degradation	aromatic amino acid degradation	input
+MF033	proline degradation	K00318	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF033	proline degradation	K00294	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF033	proline degradation	K13821	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF034	serine degradation	K01752	amino acid degradation	polar, uncharged amino acid degradation	input
+MF034	serine degradation	K01753	amino acid degradation	polar, uncharged amino acid degradation	input
+MF035	threonine degradation I	K01754	amino acid degradation	polar, uncharged amino acid degradation	input
+MF035	threonine degradation I	K17989	amino acid degradation	polar, uncharged amino acid degradation	input
+MF035	threonine degradation I	K00656	amino acid degradation	polar, uncharged amino acid degradation	input
+MF036	threonine degradation II	K00060	amino acid degradation	polar, uncharged amino acid degradation	input
+MF036	threonine degradation II	K00639	amino acid degradation	polar, uncharged amino acid degradation	input
+MF036	threonine degradation II	K01620	amino acid degradation	polar, uncharged amino acid degradation	input
+MF036	threonine degradation II	K00132	amino acid degradation	polar, uncharged amino acid degradation	input
+MF036	threonine degradation II	K04072	amino acid degradation	polar, uncharged amino acid degradation	input
+MF036	threonine degradation II	K04073	amino acid degradation	polar, uncharged amino acid degradation	input
+MF036	threonine degradation II	K18366	amino acid degradation	polar, uncharged amino acid degradation	input
+MF037	tryptophan degradation	K01667	amino acid degradation	aromatic amino acid degradation	input
+MF038	tyrosine degradation I	K00832	amino acid degradation	aromatic amino acid degradation	input
+MF038	tyrosine degradation I	K00812	amino acid degradation	aromatic amino acid degradation	input
+MF038	tyrosine degradation I	K00813	amino acid degradation	aromatic amino acid degradation	input
+MF038	tyrosine degradation I	K11358	amino acid degradation	aromatic amino acid degradation	input
+MF038	tyrosine degradation I	K00817	amino acid degradation	aromatic amino acid degradation	input
+MF038	tyrosine degradation I	K00129	amino acid degradation	aromatic amino acid degradation	input
+MF038	tyrosine degradation I	K00055	amino acid degradation	aromatic amino acid degradation	input
+MF039	tyrosine degradation II	K01668	amino acid degradation	aromatic amino acid degradation	input
+MF040	valine degradation	K00826	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF040	valine degradation	K00166	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF040	valine degradation	K00167	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF040	valine degradation	K09699	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF040	valine degradation	K00382	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF040	valine degradation	K11381	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF040	valine degradation	K00249	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF040	valine degradation	K00248	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF040	valine degradation	K09478	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF040	valine degradation	K11410	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF040	valine degradation	K01692	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF040	valine degradation	K01715	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF040	valine degradation	K01782	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF040	valine degradation	K01825	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF040	valine degradation	K13767	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF040	valine degradation	K15016	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF040	valine degradation	K05605	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF040	valine degradation	K00020	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF040	valine degradation	K07547	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF040	valine degradation	K07548	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF040	valine degradation	K12405	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF040	valine degradation	K00140	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF040	valine degradation	K00822	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF040	valine degradation	K13524	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF040	valine degradation	K07250	amino acid degradation	nonpolar, aliphatic amino acid degradation	input
+MF041	allose degradation	K00881	carbohydrate degradation	monosaccharide degradation	input
+MF041	allose degradation	K01807	carbohydrate degradation	monosaccharide degradation	input
+MF041	allose degradation	K01808	carbohydrate degradation	monosaccharide degradation	input
+MF042	arabinose degradation	K01804	carbohydrate degradation	monosaccharide degradation	input
+MF042	arabinose degradation	K00853	carbohydrate degradation	monosaccharide degradation	input
+MF043	arabinoxylan degradation	K01209	carbohydrate degradation	polysaccharide degradation	input
+MF043	arabinoxylan degradation	K15921	carbohydrate degradation	polysaccharide degradation	input
+MF043	arabinoxylan degradation	K01181	carbohydrate degradation	polysaccharide degradation	input
+MF043	arabinoxylan degradation	K01198	carbohydrate degradation	polysaccharide degradation	input
+MF043	arabinoxylan degradation	K15531	carbohydrate degradation	polysaccharide degradation	input
+MF043	arabinoxylan degradation	K18205	carbohydrate degradation	polysaccharide degradation	input
+MF044	fructan degradation	K03332	carbohydrate degradation	polysaccharide degradation	input
+MF044	fructan degradation	K01193	carbohydrate degradation	polysaccharide degradation	input
+MF045	fructose degradation	K00882	carbohydrate degradation	monosaccharide degradation	input
+MF046	galactose degradation	K01785	carbohydrate degradation	monosaccharide degradation	input
+MF046	galactose degradation	K00849	carbohydrate degradation	monosaccharide degradation	input
+MF046	galactose degradation	K00965	carbohydrate degradation	monosaccharide degradation	input
+MF046	galactose degradation	K01784	carbohydrate degradation	monosaccharide degradation	input
+MF046	galactose degradation	K17716	carbohydrate degradation	monosaccharide degradation	input
+MF046	galactose degradation	K01838	carbohydrate degradation	monosaccharide degradation	input
+MF047	galacturonate degradation I	K01812	carbohydrate degradation	sugar acid degradation	input
+MF047	galacturonate degradation I	K00041	carbohydrate degradation	sugar acid degradation	input
+MF047	galacturonate degradation I	K01685	carbohydrate degradation	sugar acid degradation	input
+MF047	galacturonate degradation I	K16849	carbohydrate degradation	sugar acid degradation	input
+MF047	galacturonate degradation I	K16850	carbohydrate degradation	sugar acid degradation	input
+MF047	galacturonate degradation I	K00874	carbohydrate degradation	sugar acid degradation	input
+MF047	galacturonate degradation I	K17463	carbohydrate degradation	sugar acid degradation	input
+MF047	galacturonate degradation I	K01625	carbohydrate degradation	sugar acid degradation	input
+MF047	galacturonate degradation I	K11395	carbohydrate degradation	sugar acid degradation	input
+MF048	galacturonate degradation II	K18981	carbohydrate degradation	sugar acid degradation	input
+MF048	galacturonate degradation II	K01707	carbohydrate degradation	sugar acid degradation	input
+MF048	galacturonate degradation II	K13877	carbohydrate degradation	sugar acid degradation	input
+MF048	galacturonate degradation II	K19588	carbohydrate degradation	sugar acid degradation	input
+MF049	lactose and galactose degradation	K02786	carbohydrate degradation	disaccharide degradation	input
+MF049	lactose and galactose degradation	K02787	carbohydrate degradation	disaccharide degradation	input
+MF049	lactose and galactose degradation	K02788	carbohydrate degradation	disaccharide degradation	input
+MF049	lactose and galactose degradation	K01220	carbohydrate degradation	disaccharide degradation	input
+MF049	lactose and galactose degradation	K01819	carbohydrate degradation	disaccharide degradation	input
+MF049	lactose and galactose degradation	K00917	carbohydrate degradation	disaccharide degradation	input
+MF049	lactose and galactose degradation	K08302	carbohydrate degradation	disaccharide degradation	input
+MF049	lactose and galactose degradation	K01635	carbohydrate degradation	disaccharide degradation	input
+MF050	lactose degradation	K12111	carbohydrate degradation	disaccharide degradation	input
+MF050	lactose degradation	K01190	carbohydrate degradation	disaccharide degradation	input
+MF050	lactose degradation	K12308	carbohydrate degradation	disaccharide degradation	input
+MF051	maltose degradation	K00691	carbohydrate degradation	disaccharide degradation	input
+MF051	maltose degradation	K01838	carbohydrate degradation	disaccharide degradation	input
+MF052	mannose degradation	K01809	carbohydrate degradation	monosaccharide degradation	input
+MF052	mannose degradation	K15916	carbohydrate degradation	monosaccharide degradation	input
+MF052	mannose degradation	K16011	carbohydrate degradation	monosaccharide degradation	input
+MF053	melibiose degradation	K07406	carbohydrate degradation	disaccharide degradation	input
+MF053	melibiose degradation	K07407	carbohydrate degradation	disaccharide degradation	input
+MF054	pectin degradation I	K01051	carbohydrate degradation	polysaccharide degradation	input
+MF054	pectin degradation I	K01184	carbohydrate degradation	polysaccharide degradation	input
+MF054	pectin degradation I	K01213	carbohydrate degradation	polysaccharide degradation	input
+MF054	pectin degradation I	K18650	carbohydrate degradation	polysaccharide degradation	input
+MF055	pectine degradation II	K01051	carbohydrate degradation	polysaccharide degradation	input
+MF055	pectine degradation II	K18650	carbohydrate degradation	polysaccharide degradation	input
+MF055	pectine degradation II	K01728	carbohydrate degradation	polysaccharide degradation	input
+MF055	pectine degradation II	K19551	carbohydrate degradation	polysaccharide degradation	input
+MF055	pectine degradation II	K01731	carbohydrate degradation	polysaccharide degradation	input
+MF055	pectine degradation II	K01730	carbohydrate degradation	polysaccharide degradation	input
+MF055	pectine degradation II	K01815	carbohydrate degradation	polysaccharide degradation	input
+MF055	pectine degradation II	K00874	carbohydrate degradation	polysaccharide degradation	input
+MF055	pectine degradation II	K01625	carbohydrate degradation	polysaccharide degradation	input
+MF055	pectine degradation II	K17463	carbohydrate degradation	polysaccharide degradation	input
+MF056	rhamnose degradation	K03534	carbohydrate degradation	monosaccharide degradation	input
+MF056	rhamnose degradation	K01813	carbohydrate degradation	monosaccharide degradation	input
+MF056	rhamnose degradation	K01820	carbohydrate degradation	monosaccharide degradation	input
+MF056	rhamnose degradation	K00848	carbohydrate degradation	monosaccharide degradation	input
+MF056	rhamnose degradation	K01629	carbohydrate degradation	monosaccharide degradation	input
+MF056	rhamnose degradation	K01803	carbohydrate degradation	monosaccharide degradation	input
+MF057	ribose degradation	K06726	carbohydrate degradation	monosaccharide degradation	input
+MF057	ribose degradation	K00852	carbohydrate degradation	monosaccharide degradation	input
+MF058	starch degradation	K01176	carbohydrate degradation	polysaccharide degradation	input
+MF058	starch degradation	K07405	carbohydrate degradation	polysaccharide degradation	input
+MF058	starch degradation	K05343	carbohydrate degradation	polysaccharide degradation	input
+MF058	starch degradation	K01200	carbohydrate degradation	polysaccharide degradation	input
+MF058	starch degradation	K01208	carbohydrate degradation	polysaccharide degradation	input
+MF058	starch degradation	K00688	carbohydrate degradation	polysaccharide degradation	input
+MF058	starch degradation	K16153	carbohydrate degradation	polysaccharide degradation	input
+MF058	starch degradation	K00705	carbohydrate degradation	polysaccharide degradation	input
+MF058	starch degradation	K01187	carbohydrate degradation	polysaccharide degradation	input
+MF058	starch degradation	K15922	carbohydrate degradation	polysaccharide degradation	input
+MF058	starch degradation	K01178	carbohydrate degradation	polysaccharide degradation	input
+MF058	starch degradation	K01182	carbohydrate degradation	polysaccharide degradation	input
+MF059	sucrose degradation I	K01193	carbohydrate degradation	disaccharide degradation	input
+MF059	sucrose degradation I	K00847	carbohydrate degradation	disaccharide degradation	input
+MF060	sucrose degradation II	K00690	carbohydrate degradation	disaccharide degradation	input
+MF060	sucrose degradation II	K00847	carbohydrate degradation	disaccharide degradation	input
+MF060	sucrose degradation II	K01792	carbohydrate degradation	disaccharide degradation	input
+MF060	sucrose degradation II	K01835	carbohydrate degradation	disaccharide degradation	input
+MF060	sucrose degradation II	K15778	carbohydrate degradation	disaccharide degradation	input
+MF060	sucrose degradation II	K15779	carbohydrate degradation	disaccharide degradation	input
+MF061	trehalose degradation	K03731	carbohydrate degradation	disaccharide degradation	input
+MF061	trehalose degradation	K01226	carbohydrate degradation	disaccharide degradation	input
+MF061	trehalose degradation	K01194	carbohydrate degradation	disaccharide degradation	input
+MF061	trehalose degradation	K05342	carbohydrate degradation	disaccharide degradation	input
+MF062	xylose degradation	K01805	carbohydrate degradation	monosaccharide degradation	input
+MF062	xylose degradation	K00854	carbohydrate degradation	monosaccharide degradation	input
+MF063	Bifidobacterium shunt	K01621	central metabolism	energy metabolism	central
+MF063	Bifidobacterium shunt	K01632	central metabolism	energy metabolism	central
+MF063	Bifidobacterium shunt	K00616	central metabolism	energy metabolism	central
+MF063	Bifidobacterium shunt	K13810	central metabolism	energy metabolism	central
+MF063	Bifidobacterium shunt	K00615	central metabolism	energy metabolism	central
+MF063	Bifidobacterium shunt	K01807	central metabolism	energy metabolism	central
+MF063	Bifidobacterium shunt	K01808	central metabolism	energy metabolism	central
+MF063	Bifidobacterium shunt	K01783	central metabolism	energy metabolism	central
+MF064	Entner-Doudoroff pathway	K00036	central metabolism	energy metabolism	central
+MF064	Entner-Doudoroff pathway	K01057	central metabolism	energy metabolism	central
+MF064	Entner-Doudoroff pathway	K07404	central metabolism	energy metabolism	central
+MF064	Entner-Doudoroff pathway	K01690	central metabolism	energy metabolism	central
+MF064	Entner-Doudoroff pathway	K01625	central metabolism	energy metabolism	central
+MF065	glycolysis (pay-off phase)	K00134	central metabolism	energy metabolism	central
+MF065	glycolysis (pay-off phase)	K00150	central metabolism	energy metabolism	central
+MF065	glycolysis (pay-off phase)	K00927	central metabolism	energy metabolism	central
+MF065	glycolysis (pay-off phase)	K01834	central metabolism	energy metabolism	central
+MF065	glycolysis (pay-off phase)	K01689	central metabolism	energy metabolism	central
+MF065	glycolysis (pay-off phase)	K00873	central metabolism	energy metabolism	central
+MF066	glycolysis (preparatory phase)	K00844	central metabolism	energy metabolism	central
+MF066	glycolysis (preparatory phase)	K00845	central metabolism	energy metabolism	central
+MF066	glycolysis (preparatory phase)	K01810	central metabolism	energy metabolism	central
+MF066	glycolysis (preparatory phase)	K06859	central metabolism	energy metabolism	central
+MF066	glycolysis (preparatory phase)	K13810	central metabolism	energy metabolism	central
+MF066	glycolysis (preparatory phase)	K15916	central metabolism	energy metabolism	central
+MF066	glycolysis (preparatory phase)	K00850	central metabolism	energy metabolism	central
+MF066	glycolysis (preparatory phase)	K16370	central metabolism	energy metabolism	central
+MF066	glycolysis (preparatory phase)	K01622	central metabolism	energy metabolism	central
+MF066	glycolysis (preparatory phase)	K01623	central metabolism	energy metabolism	central
+MF066	glycolysis (preparatory phase)	K01624	central metabolism	energy metabolism	central
+MF066	glycolysis (preparatory phase)	K11645	central metabolism	energy metabolism	central
+MF066	glycolysis (preparatory phase)	K16305	central metabolism	energy metabolism	central
+MF066	glycolysis (preparatory phase)	K16306	central metabolism	energy metabolism	central
+MF066	glycolysis (preparatory phase)	K01803	central metabolism	energy metabolism	central
+MF067	pentose phosphate pathway (non-oxidative branch)	K01807	central metabolism	energy metabolism	central
+MF067	pentose phosphate pathway (non-oxidative branch)	K01808	central metabolism	energy metabolism	central
+MF067	pentose phosphate pathway (non-oxidative branch)	K01783	central metabolism	energy metabolism	central
+MF067	pentose phosphate pathway (non-oxidative branch)	K00615	central metabolism	energy metabolism	central
+MF067	pentose phosphate pathway (non-oxidative branch)	K00616	central metabolism	energy metabolism	central
+MF067	pentose phosphate pathway (non-oxidative branch)	K13810	central metabolism	energy metabolism	central
+MF068	pentose phosphate pathway (oxidative phase)	K00036	central metabolism	energy metabolism	central
+MF068	pentose phosphate pathway (oxidative phase)	K19243	central metabolism	energy metabolism	central
+MF068	pentose phosphate pathway (oxidative phase)	K01057	central metabolism	energy metabolism	central
+MF068	pentose phosphate pathway (oxidative phase)	K07404	central metabolism	energy metabolism	central
+MF068	pentose phosphate pathway (oxidative phase)	K00033	central metabolism	energy metabolism	central
+MF069	pyruvate dehydrogenase complex	K00161	central metabolism	energy metabolism	central
+MF069	pyruvate dehydrogenase complex	K00162	central metabolism	energy metabolism	central
+MF069	pyruvate dehydrogenase complex	K00163	central metabolism	energy metabolism	central
+MF069	pyruvate dehydrogenase complex	K00382	central metabolism	energy metabolism	central
+MF069	pyruvate dehydrogenase complex	K00627	central metabolism	energy metabolism	central
+MF070	pyruvate:ferredoxin oxidoreductase	K00169	central metabolism	energy metabolism	central
+MF070	pyruvate:ferredoxin oxidoreductase	K00170	central metabolism	energy metabolism	central
+MF070	pyruvate:ferredoxin oxidoreductase	K00171	central metabolism	energy metabolism	central
+MF070	pyruvate:ferredoxin oxidoreductase	K00172	central metabolism	energy metabolism	central
+MF070	pyruvate:ferredoxin oxidoreductase	K03737	central metabolism	energy metabolism	central
+MF071	pyruvate:formate lyase	K00656	central metabolism	energy metabolism	central
+MF072	homoacetogenesis	K05299	gas metabolism	acetogenesis	input
+MF072	homoacetogenesis	K15022	gas metabolism	acetogenesis	input
+MF072	homoacetogenesis	K01938	gas metabolism	acetogenesis	input
+MF072	homoacetogenesis	K01491	gas metabolism	acetogenesis	input
+MF072	homoacetogenesis	K00297	gas metabolism	acetogenesis	input
+MF072	homoacetogenesis	K15023	gas metabolism	acetogenesis	input
+MF072	homoacetogenesis	K00198	gas metabolism	acetogenesis	input
+MF072	homoacetogenesis	K14138	gas metabolism	acetogenesis	input
+MF072	homoacetogenesis	K00197	gas metabolism	acetogenesis	input
+MF072	homoacetogenesis	K00194	gas metabolism	acetogenesis	input
+MF073	hydrogen metabolism	K00532	gas metabolism	hydrogen metabolism	output
+MF073	hydrogen metabolism	K00533	gas metabolism	hydrogen metabolism	output
+MF073	hydrogen metabolism	K00534	gas metabolism	hydrogen metabolism	output
+MF073	hydrogen metabolism	K06441	gas metabolism	hydrogen metabolism	output
+MF073	hydrogen metabolism	K18016	gas metabolism	hydrogen metabolism	output
+MF073	hydrogen metabolism	K18017	gas metabolism	hydrogen metabolism	output
+MF073	hydrogen metabolism	K18023	gas metabolism	hydrogen metabolism	output
+MF073	hydrogen metabolism	K00436	gas metabolism	hydrogen metabolism	output
+MF073	hydrogen metabolism	K18005	gas metabolism	hydrogen metabolism	output
+MF073	hydrogen metabolism	K18006	gas metabolism	hydrogen metabolism	output
+MF073	hydrogen metabolism	K18007	gas metabolism	hydrogen metabolism	output
+MF074	methanogenesis - methyl-coM	K00399	gas metabolism	methanogenesis	output
+MF074	methanogenesis - methyl-coM	K00401	gas metabolism	methanogenesis	output
+MF074	methanogenesis - methyl-coM	K00402	gas metabolism	methanogenesis	output
+MF075	methanogenesis from carbon dioxide	K00200	gas metabolism	methanogenesis	output
+MF075	methanogenesis from carbon dioxide	K00201	gas metabolism	methanogenesis	output
+MF075	methanogenesis from carbon dioxide	K00202	gas metabolism	methanogenesis	output
+MF075	methanogenesis from carbon dioxide	K00203	gas metabolism	methanogenesis	output
+MF075	methanogenesis from carbon dioxide	K11261	gas metabolism	methanogenesis	output
+MF075	methanogenesis from carbon dioxide	K00204	gas metabolism	methanogenesis	output
+MF075	methanogenesis from carbon dioxide	K00205	gas metabolism	methanogenesis	output
+MF075	methanogenesis from carbon dioxide	K11260	gas metabolism	methanogenesis	output
+MF075	methanogenesis from carbon dioxide	K00672	gas metabolism	methanogenesis	output
+MF075	methanogenesis from carbon dioxide	K01499	gas metabolism	methanogenesis	output
+MF075	methanogenesis from carbon dioxide	K00319	gas metabolism	methanogenesis	output
+MF075	methanogenesis from carbon dioxide	K13942	gas metabolism	methanogenesis	output
+MF075	methanogenesis from carbon dioxide	K00320	gas metabolism	methanogenesis	output
+MF075	methanogenesis from carbon dioxide	K00577	gas metabolism	methanogenesis	output
+MF075	methanogenesis from carbon dioxide	K00578	gas metabolism	methanogenesis	output
+MF075	methanogenesis from carbon dioxide	K00579	gas metabolism	methanogenesis	output
+MF075	methanogenesis from carbon dioxide	K00580	gas metabolism	methanogenesis	output
+MF075	methanogenesis from carbon dioxide	K00581	gas metabolism	methanogenesis	output
+MF075	methanogenesis from carbon dioxide	K00582	gas metabolism	methanogenesis	output
+MF075	methanogenesis from carbon dioxide	K00583	gas metabolism	methanogenesis	output
+MF075	methanogenesis from carbon dioxide	K00584	gas metabolism	methanogenesis	output
+MF076	methanol conversion	K04480	gas metabolism	methanogenesis	input
+MF076	methanol conversion	K14080	gas metabolism	methanogenesis	input
+MF076	methanol conversion	K14081	gas metabolism	methanogenesis	input
+MF077	NADH:ferredoxin oxidoreductase	K00529	gas metabolism	hydrogen metabolism	central
+MF077	NADH:ferredoxin oxidoreductase	K15758	gas metabolism	hydrogen metabolism	central
+MF077	NADH:ferredoxin oxidoreductase	K15765	gas metabolism	hydrogen metabolism	central
+MF077	NADH:ferredoxin oxidoreductase	K18088	gas metabolism	hydrogen metabolism	central
+MF077	NADH:ferredoxin oxidoreductase	K18090	gas metabolism	hydrogen metabolism	central
+MF077	NADH:ferredoxin oxidoreductase	K18227	gas metabolism	hydrogen metabolism	central
+MF077	NADH:ferredoxin oxidoreductase	K18254	gas metabolism	hydrogen metabolism	central
+MF077	NADH:ferredoxin oxidoreductase	K18293	gas metabolism	hydrogen metabolism	central
+MF078	sulfate reduction (dissimilatory)	K13811	gas metabolism	sulfate metabolism	output
+MF078	sulfate reduction (dissimilatory)	K00958	gas metabolism	sulfate metabolism	output
+MF078	sulfate reduction (dissimilatory)	K00955	gas metabolism	sulfate metabolism	output
+MF078	sulfate reduction (dissimilatory)	K00957	gas metabolism	sulfate metabolism	output
+MF078	sulfate reduction (dissimilatory)	K00956	gas metabolism	sulfate metabolism	output
+MF078	sulfate reduction (dissimilatory)	K00394	gas metabolism	sulfate metabolism	output
+MF078	sulfate reduction (dissimilatory)	K00395	gas metabolism	sulfate metabolism	output
+MF078	sulfate reduction (dissimilatory)	K11180	gas metabolism	sulfate metabolism	output
+MF078	sulfate reduction (dissimilatory)	K11181	gas metabolism	sulfate metabolism	output
+MF079	mucin degradation	K01186	glycoprotein degradation	mucus degradation	input
+MF079	mucin degradation	K05970	glycoprotein degradation	mucus degradation	input
+MF079	mucin degradation	K01132	glycoprotein degradation	mucus degradation	input
+MF079	mucin degradation	K01135	glycoprotein degradation	mucus degradation	input
+MF079	mucin degradation	K01137	glycoprotein degradation	mucus degradation	input
+MF079	mucin degradation	K01205	glycoprotein degradation	mucus degradation	input
+MF079	mucin degradation	K01207	glycoprotein degradation	mucus degradation	input
+MF079	mucin degradation	K12373	glycoprotein degradation	mucus degradation	input
+MF079	mucin degradation	K14459	glycoprotein degradation	mucus degradation	input
+MF079	mucin degradation	K01227	glycoprotein degradation	mucus degradation	input
+MF079	mucin degradation	K13714	glycoprotein degradation	mucus degradation	input
+MF079	mucin degradation	K01206	glycoprotein degradation	mucus degradation	input
+MF080	nitrate reduction (dissimilatory)	K03385	inorganic nutrient metabolism	nitrogen	output
+MF081	anaerobic fatty acid beta-oxidation	K06076	lipid degradation	beta-oxidation	input
+MF081	anaerobic fatty acid beta-oxidation	K12507	lipid degradation	beta-oxidation	input
+MF081	anaerobic fatty acid beta-oxidation	K06445	lipid degradation	beta-oxidation	input
+MF081	anaerobic fatty acid beta-oxidation	K01782	lipid degradation	beta-oxidation	input
+MF082	glycerol degradation I	K00005	lipid degradation	glycerol degradation	input
+MF082	glycerol degradation I	K00863	lipid degradation	glycerol degradation	input
+MF082	glycerol degradation I	K01803	lipid degradation	glycerol degradation	input
+MF083	glycerol degradation II	K00864	lipid degradation	glycerol degradation	input
+MF083	glycerol degradation II	K00111	lipid degradation	glycerol degradation	input
+MF083	glycerol degradation II	K00112	lipid degradation	glycerol degradation	input
+MF083	glycerol degradation II	K00113	lipid degradation	glycerol degradation	input
+MF083	glycerol degradation II	K01803	lipid degradation	glycerol degradation	input
+MF084	glycerol degradation III	K06120	lipid degradation	glycerol degradation	input
+MF084	glycerol degradation III	K06121	lipid degradation	glycerol degradation	input
+MF084	glycerol degradation III	K06122	lipid degradation	glycerol degradation	input
+MF084	glycerol degradation III	K00086	lipid degradation	glycerol degradation	input
+MF085	glyoxylate bypass	K01647	lipid degradation	glyoxylate bypass	central
+MF085	glyoxylate bypass	K01681	lipid degradation	glyoxylate bypass	central
+MF085	glyoxylate bypass	K01682	lipid degradation	glyoxylate bypass	central
+MF085	glyoxylate bypass	K01637	lipid degradation	glyoxylate bypass	central
+MF085	glyoxylate bypass	K01638	lipid degradation	glyoxylate bypass	central
+MF085	glyoxylate bypass	K00024	lipid degradation	glyoxylate bypass	central
+MF086	triacylglycerol degradation	K01046	lipid degradation	triacylglycerol degradation	input
+MF086	triacylglycerol degradation	K01054	lipid degradation	triacylglycerol degradation	input
+MF087	ketone body biosynthesis and degradation	K00019	lipid degradation	ketone body biosynthesis and degradation	central
+MF087	ketone body biosynthesis and degradation	K00626	lipid degradation	ketone body biosynthesis and degradation	central
+MF087	ketone body biosynthesis and degradation	K01027	lipid degradation	ketone body biosynthesis and degradation	central
+MF087	ketone body biosynthesis and degradation	K01028	lipid degradation	ketone body biosynthesis and degradation	central
+MF087	ketone body biosynthesis and degradation	K01029	lipid degradation	ketone body biosynthesis and degradation	central
+MF087	ketone body biosynthesis and degradation	K01574	lipid degradation	ketone body biosynthesis and degradation	central
+MF087	ketone body biosynthesis and degradation	K01640	lipid degradation	ketone body biosynthesis and degradation	central
+MF087	ketone body biosynthesis and degradation	K01641	lipid degradation	ketone body biosynthesis and degradation	central
+MF088	acetate to acetyl-CoA	K01895	organic acid metabolism	acetate metabolism	input
+MF088	acetate to acetyl-CoA	K01905	organic acid metabolism	acetate metabolism	input
+MF089	acetyl-CoA to acetate	K00625	organic acid metabolism	acetate metabolism	output
+MF089	acetyl-CoA to acetate	K00925	organic acid metabolism	acetate metabolism	output
+MF089	acetyl-CoA to acetate	K13788	organic acid metabolism	acetate metabolism	output
+MF089	acetyl-CoA to acetate	K15024	organic acid metabolism	acetate metabolism	output
+MF089	acetyl-CoA to acetate	K01905	organic acid metabolism	acetate metabolism	output
+MF089	acetyl-CoA to acetate	K01067	organic acid metabolism	acetate metabolism	output
+MF089	acetyl-CoA to acetate	K18118	organic acid metabolism	acetate metabolism	output
+MF090	acetyl-CoA to crotonyl-CoA	K00626	organic acid metabolism	butyrate metabolism	output
+MF090	acetyl-CoA to crotonyl-CoA	K00023	organic acid metabolism	butyrate metabolism	output
+MF090	acetyl-CoA to crotonyl-CoA	K01782	organic acid metabolism	butyrate metabolism	output
+MF090	acetyl-CoA to crotonyl-CoA	K01825	organic acid metabolism	butyrate metabolism	output
+MF090	acetyl-CoA to crotonyl-CoA	K07516	organic acid metabolism	butyrate metabolism	output
+MF090	acetyl-CoA to crotonyl-CoA	K07547	organic acid metabolism	butyrate metabolism	output
+MF090	acetyl-CoA to crotonyl-CoA	K07548	organic acid metabolism	butyrate metabolism	output
+MF090	acetyl-CoA to crotonyl-CoA	K12405	organic acid metabolism	butyrate metabolism	output
+MF090	acetyl-CoA to crotonyl-CoA	K15016	organic acid metabolism	butyrate metabolism	output
+MF090	acetyl-CoA to crotonyl-CoA	K01715	organic acid metabolism	butyrate metabolism	output
+MF090	acetyl-CoA to crotonyl-CoA	K01692	organic acid metabolism	butyrate metabolism	output
+MF090	acetyl-CoA to crotonyl-CoA	K13767	organic acid metabolism	butyrate metabolism	output
+MF091	butyrate production I	K00248	organic acid metabolism	butyrate metabolism	output
+MF091	butyrate production I	K00634	organic acid metabolism	butyrate metabolism	output
+MF091	butyrate production I	K00929	organic acid metabolism	butyrate metabolism	output
+MF092	butyrate production II	K00248	organic acid metabolism	butyrate metabolism	output
+MF092	butyrate production II	K01034	organic acid metabolism	butyrate metabolism	output
+MF092	butyrate production II	K01035	organic acid metabolism	butyrate metabolism	output
+MF092	butyrate production II	K19709	organic acid metabolism	butyrate metabolism	output
+MF093	formate conversion	K00122	organic acid metabolism	formate metabolism	input
+MF093	formate conversion	K00123	organic acid metabolism	formate metabolism	input
+MF093	formate conversion	K00125	organic acid metabolism	formate metabolism	input
+MF093	formate conversion	K00126	organic acid metabolism	formate metabolism	input
+MF094	fucose degradation	K02431	organic acid metabolism	propionate metabolism	output
+MF094	fucose degradation	K01818	organic acid metabolism	propionate metabolism	output
+MF094	fucose degradation	K00879	organic acid metabolism	propionate metabolism	output
+MF094	fucose degradation	K01628	organic acid metabolism	propionate metabolism	output
+MF094	fucose degradation	K01803	organic acid metabolism	propionate metabolism	output
+MF095	lactaldehyde degradation	K00048	organic acid metabolism	propionate metabolism	input
+MF096	lactate consumption I	K00101	organic acid metabolism	lactate metabolism	input
+MF096	lactate consumption I	K00102	organic acid metabolism	lactate metabolism	input
+MF097	lactate consumption II	K01026	organic acid metabolism	propionate metabolism	input
+MF097	lactate consumption II	K00249	organic acid metabolism	propionate metabolism	input
+MF098	lactate production	K00016	organic acid metabolism	lactate metabolism	output
+MF098	lactate production	K03777	organic acid metabolism	lactate metabolism	output
+MF098	lactate production	K03778	organic acid metabolism	lactate metabolism	output
+MF099	propionate production I	K13923	organic acid metabolism	propionate metabolism	output
+MF099	propionate production I	K00932	organic acid metabolism	propionate metabolism	output
+MF100	propionate production II	K01026	organic acid metabolism	propionate metabolism	output
+MF101	propionate production III	K01847	organic acid metabolism	propionate metabolism	output
+MF101	propionate production III	K01849	organic acid metabolism	propionate metabolism	output
+MF101	propionate production III	K01848	organic acid metabolism	propionate metabolism	output
+MF101	propionate production III	K11942	organic acid metabolism	propionate metabolism	output
+MF101	propionate production III	K05606	organic acid metabolism	propionate metabolism	output
+MF101	propionate production III	K03416	organic acid metabolism	propionate metabolism	output
+MF101	propionate production III	K17489	organic acid metabolism	propionate metabolism	output
+MF101	propionate production III	K17490	organic acid metabolism	propionate metabolism	output
+MF102	succinate consumption	K18118	organic acid metabolism	butyrate metabolism	input
+MF102	succinate consumption	K15017	organic acid metabolism	butyrate metabolism	input
+MF102	succinate consumption	K15038	organic acid metabolism	butyrate metabolism	input
+MF102	succinate consumption	K18119	organic acid metabolism	butyrate metabolism	input
+MF102	succinate consumption	K00043	organic acid metabolism	butyrate metabolism	input
+MF102	succinate consumption	K08318	organic acid metabolism	butyrate metabolism	input
+MF102	succinate consumption	K18120	organic acid metabolism	butyrate metabolism	input
+MF102	succinate consumption	K18122	organic acid metabolism	butyrate metabolism	input
+MF102	succinate consumption	K14534	organic acid metabolism	butyrate metabolism	input
+MF103	succinate conversion to propionate	K11264	organic acid metabolism	succinate metabolism	input
+MF104	succinate production	K01596	organic acid metabolism	succinate metabolism	output
+MF104	succinate production	K01595	organic acid metabolism	succinate metabolism	output
+MF104	succinate production	K00024	organic acid metabolism	succinate metabolism	output
+MF104	succinate production	K01676	organic acid metabolism	succinate metabolism	output
+MF104	succinate production	K01677	organic acid metabolism	succinate metabolism	output
+MF104	succinate production	K01678	organic acid metabolism	succinate metabolism	output
+MF104	succinate production	K01679	organic acid metabolism	succinate metabolism	output
+MF104	succinate production	K00239	organic acid metabolism	succinate metabolism	output
+MF104	succinate production	K00240	organic acid metabolism	succinate metabolism	output
+MF104	succinate production	K00241	organic acid metabolism	succinate metabolism	output
+MF104	succinate production	K00242	organic acid metabolism	succinate metabolism	output
