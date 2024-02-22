@@ -13,7 +13,7 @@ import copy
 
 def get_args():
     parser = argparse.ArgumentParser(prog=__doc__, formatter_class=argparse.RawTextHelpFormatter)
-    parser.add_argument("i", metavar="in_f", help="blast(sorted)")
+    parser.add_argument("i", metavar="in_f", help="blast.m8")
     parser.add_argument("o", metavar="out_f", help="output")
     parser.add_argument("min_id",type=float, default=75, help="ignore the identity less than min_id[default 75]")
     parser.add_argument("min_len",type=float, default=200, help="ignore the identity less than min_len[default 200]")
