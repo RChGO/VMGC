@@ -90,7 +90,7 @@ Based on the 786 species-level genome bins (SGBs) in the VMGC, we reconstructed 
                 └── prelim_map.txt
 
 * Step 2: The clean reads from each sample are mapped to the database, generating compositions at various taxonomic levels.
-    > find clean_reads/*.1.fq.gz | sed 's/.1.fq.gz//'| parallel -j 5 kraken2 --threads 10 --db KBdb --report prof/{/}.report --report-minimizer-data --output prof/{/}.output {}.1.fq.gz {}.2.fq.gz
+    > find clean_reads/*.1.fq.gz | sed 's/.1.fq.gz//'| parallel -j 5 kraken2 --threads 10 --confidence 0.1 --db KBdb --report prof/{/}.report --report-minimizer-data --output prof/{/}.output {}.1.fq.gz {}.2.fq.gz
 
     > find prof/*.report | parallel -j 5 bracken -d KBdb -i {} -o {}.bracken -r 150 -l S -t 1
 
