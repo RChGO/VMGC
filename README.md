@@ -16,7 +16,7 @@ The microbial sequence data for VMGC is stored at https://zenodo.org/records/104
 | Full eukaryotic genomes (n=42, including 4 from parasites)  | 192 MB | VMGC_eukaryocyte.tar.gz |
 | Annotations of eukaryotic genomes (Taxonomy/Quality/Clusting/...)  | 11 KB | VMGC_eukaryocyte.info |
 | Full viral genomes (n=14,224) and vOTUs (n=4,263)| 197 MB | VMGC_virus.tar.gz |
-| Annotations of eukaryotic genomes (Taxonomy/Quality/Clusting/Host...)  | 969 KB | VMGC_virus.info |
+| Annotations of viral genomes (Taxonomy/Quality/Clusting/Host...)  | 969 KB | VMGC_virus.info |
 |  Kraken & Bracken database  | 2.1 GB | VMGC_prokaryote_SGB_KrakenDB.tar.gz |
 
 <br>
