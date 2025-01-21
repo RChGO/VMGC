@@ -52,6 +52,24 @@ Metagenome-assembled genomes in the VMGC were obtained through a process that in
     >find depth/* -type d | parallel -j 10 metabat2 -i contigs/{/.}.fasta -a depth/{/.}/{/.}.depth -o bins/{/.}/{/.}.sbin -m 2000 -s 200000 --saveCls --unbinned --seed 2020
 <br>
 
+*A tip: For step 2, if your dataset is quite large, you can also use the following command for each sequencing depth file (.sort.bam.depth), which will significantly reduce the time required to run and yield results that are completely the same as those from the above step 2.*<br>
+
+      bwa-mem2 mem -t $thread $db $fq1 $fq2 |\
+          perl -e 'while(<>){if(/^@/){print "$_"; next} ;chomp;@l=split/\t/;
+                             next if ($l[1] & 0x4) != 0;
+                             $ref_length=0;$match_counts=0;$cov_length=0;
+                             while($l[5]=~/(\d+)[M=XID]/g){$cov_length+=$1};
+                             while($l[5]=~/(\d+)[MDN=X]/g){$ref_length+=$1};
+                             foreach $k(@l[11..$#l]){
+                                 if($k=~/MD:Z:/){while($k=~/(\d+)/g){$match_counts+=$1}}
+                             };
+                             $identity=$match_counts/$cov_length*100;
+                             print "$_\n" if $identity>=97
+                             }' |\
+          samtools view -bS - -@ $thread |\
+          samtools sort -@ $thread -o $outf.sort.bam
+      jgi_summarize_bam_contig_depths --outputDepth $outf.sort.bam.depth $outf.sort.bam
+
 ---
 ### Taxonomic profiling
 Based on the 786 species-level genome bins (SGBs) in the VMGC, we reconstructed the prokaryotic composition of the vagina using Kraken2 and Bracken tools.
